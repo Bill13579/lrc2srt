@@ -1,0 +1,10 @@
+Third Release of lrc2srt
+
+What's New?
+- Multiple file selection
+
+Fixed Bugs
+- Fully Support UTF-8
+
+Bugs
+- Not able to process some type of lrc files
