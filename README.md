@@ -3,8 +3,6 @@
 Lrc2Srt is a graphical application for converting `.lrc` subtitle files into the `.srt` filetype/format.
 To aid in the conversion of translations into a video-readable format.
 
-# How it works
-
 `.lrc` files are only timestamped based on when the start of each line is, Lrc2Srt reads in the `.lrc` file, and calculates the time range of each line and when it *should* end given it's successor/next door neighbor.
 
 `Time Interval` defines how much the transition time between lines should be.
